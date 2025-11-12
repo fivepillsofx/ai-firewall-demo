@@ -2,7 +2,3 @@ streamlit
 pandas
 plotly
 numpy
-torch
-transformers
-spacy
-sentence_transformers
